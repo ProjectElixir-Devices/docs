@@ -9,7 +9,7 @@
 > - You don't need source access so don't ask as we provide JENKINS.
 > - Read this guide step by step to avoid issues in anything
 > - You can add Miui/Oos/Leica Camera & Dolby/Viper but make sure its stable
-> - You can ship Lawnchair/Pixel Launcher according to your choice (By default its Lawnchair)
+> - You can ship Lawnchair/Pixel Launcher according to your choice. (By default its Pixel Launcher)
 > - After joining us make sure to adapt your trees for Jenkins and elixir 
 > - Also make sure its properly tested on unofficial source before sending for Jenkins build
 
@@ -110,9 +110,9 @@
 TARGET_USES_AOSP_RECOVERY := true
 ```
 
-**Pixel Launcher**
+**Lawnchair Launcher**
 ```
-EXCLUDE_LAWNCHAIR := true
+FORCE_LAWNCHAIR := true
 ```
 
 **GMS product config**
