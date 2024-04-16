@@ -152,7 +152,7 @@ XDA Banner and Template [URL='https://projectelixiros.com/team'][B][COLOR=rgb(25
 
 
 [SIZE=4]- [B]Android OS version: [COLOR=rgb(255, 120, 124)]14.0[/COLOR][/B]
-- [B]Security patch:[/B] [B][COLOR=rgb(255, 120, 124)]February '2024[/COLOR] [/B]
+- [B]Security patch:[/B] [B][COLOR=rgb(255, 120, 124)]April '2024[/COLOR] [/B]
 
 - [B]Device[/B]: [B][COLOR=rgb(255, 120, 124)]Redmi Note 7 Pro[/COLOR][/B]
 - [B]Device Codename[/B]: [B][COLOR=rgb(255, 120, 124)]violet[/COLOR][/B]
